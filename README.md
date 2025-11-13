@@ -1,4 +1,4 @@
- # **Credit Card Analysis**
+ # **Customer Segmentation & Spending Behavior Analysis in Credit Card **
 
 ## **Table of Contents**
 
